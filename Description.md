@@ -1,2 +1,2 @@
-Hello i am new "Mod" creator, i dont actually mods but i make APIs for games.
-I use python to code most of mt projects, im not very experienced but i know the basics for modding
+My name is 2smart2mod, im being sarcastic about being too smart too mod im accualy not that smart.
+I make APIs for 2D games like Super Auto Pets, i also want to learn how to make APIs for 3D games but thats out of my knowledge.
